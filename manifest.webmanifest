@@ -1,0 +1,10 @@
+{
+  "id": "/film-lab-app/", "name": "Film Lab", "short_name": "Film Lab",
+  "description": "A small, private darkroom for film-inspired photographs.",
+  "start_url": "/film-lab-app/", "scope": "/film-lab-app/", "display": "standalone",
+  "background_color": "#171715", "theme_color": "#171715",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
